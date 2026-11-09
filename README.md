@@ -36,6 +36,10 @@ Get the APK from the [latest release](https://github.com/TheodoreNguyenSa/cleany
 
 ## Changelog
 
+### v2.6-toan4
+
+- New **Close apps** button in the top row (between Kids and Settings): one press clears background apps and their caches to free memory. Core system apps are never touched, and streaming apps (YouTube TV, Netflix) are skipped — note Android will not force-close an app that is currently playing media or showing a picture-in-picture window.
+
 ### v2.6-toan3
 
 - Added the two Home info cards: live weather (Open-Meteo, auto location) and Vietnamese lunar calendar (Tết countdown, Vietnam time).
