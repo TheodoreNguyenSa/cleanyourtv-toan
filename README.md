@@ -36,6 +36,13 @@ Get the APK from the [latest release](https://github.com/TheodoreNguyenSa/cleany
 
 ## Changelog
 
+### v2.7
+
+- New **Tùy biến** (Customise) screen in Settings: language (system / Vietnamese / English), info-card toggles (weather and lunar separately), card order, lunar date on top, weather city (Adelaide, Melbourne, Sydney, Brisbane, Perth, Canberra, Hobart, Darwin), 5 accent colours, background themes (Dark / Light / Blue / Green), frosted or solid dock, app names under tiles, 12/24-hour clock, wallpaper dim, hide apps, pin favourite apps, sort A–Z or recently used, screensaver delay, and a PIN lock for Tùy biến (PIN theo giờ — the same dynamic PIN as Kids Lock). "Khôi phục theo theme" clears all on-TV choices back to the theme. Every new default matches current behaviour.
+- New **Giới thiệu & Ủng hộ** (About) screen: version, author, GitHub link, **Kiểm tra cập nhật** (checks the GitHub releases, downloads and installs an update), credits, Buy Me A Coffee and PayPal, a share card with the Downloader QR code (1238220), "Mới trong v2.7", and **Sao lưu / Khôi phục cài đặt**.
+- All 24 missing Vietnamese strings translated (EN 150 → 229 strings, VI 126 → 228; `date_format_home` stays English-only by design — it is a reference marked `translatable="false"`).
+- APK: `CleanYourTV-ToanNguyen-v2.7.apk` — 1,903,870 bytes, SHA-256 `02b31a6bc6b8afbde5af9b7ee6a43a2e579086b183936dcf94a24e2c3d6bde57`, versionCode 12. Downloader code: 1111249.
+
 ### v2.6-toan4
 
 - New **Close apps** button in the top row (between Kids and Settings): one press clears background apps and their caches to free memory. Core system apps are never touched, and streaming apps (YouTube TV, Netflix) are skipped — note Android will not force-close an app that is currently playing media or showing a picture-in-picture window.
