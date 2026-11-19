@@ -36,6 +36,11 @@ Get the APK from the [latest release](https://github.com/TheodoreNguyenSa/cleany
 
 ## Changelog
 
+### v2.7.2
+
+- Fixes the crash when scrolling the app grid: the manual build did not package core-ktx, so `RecyclerView` recycling a view holder hit a missing `androidx.core.view.ViewKt` class and the launcher died (the app underneath then showed through).
+- APK: `CleanYourTV-ToanNguyen-v2.7.2.apk` — 1,957,200 bytes, SHA-256 `1570c188e701c5bda1ca9a8b2973f9df1db3c06ceed71fdbeefd4ed4f5cd744d`, versionCode 14. Downloader code: 9805111.
+
 ### v2.7.1
 
 - About screen now shows a website QR + link (`toannguyeninoz.pp.ua`) next to Buy Me a Coffee.
