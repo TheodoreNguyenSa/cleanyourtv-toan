@@ -36,6 +36,11 @@ Get the APK from the [latest release](https://github.com/TheodoreNguyenSa/cleany
 
 ## Changelog
 
+### v2.7.1
+
+- About screen now shows a website QR + link (`toannguyeninoz.pp.ua`) next to Buy Me a Coffee.
+- APK: `CleanYourTV-ToanNguyen-v2.7.1.apk` — 1,908,048 bytes, SHA-256 `f4c2f85b587246c45544c5099da9beef6719316a2a749c8ddd8ce589af43b0c9`, versionCode 13. Downloader code: 4163643.
+
 ### v2.7
 
 - New **Tùy biến** (Customise) screen in Settings: language (system / Vietnamese / English), info-card toggles (weather and lunar separately), card order, lunar date on top, weather city (Adelaide, Melbourne, Sydney, Brisbane, Perth, Canberra, Hobart, Darwin), 5 accent colours, background themes (Dark / Light / Blue / Green), frosted or solid dock, app names under tiles, 12/24-hour clock, wallpaper dim, hide apps, pin favourite apps, sort A–Z or recently used, screensaver delay, and a PIN lock for Tùy biến (PIN theo giờ — the same dynamic PIN as Kids Lock). "Khôi phục theo theme" clears all on-TV choices back to the theme. Every new default matches current behaviour.
